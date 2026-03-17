@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#F9F6F0"/>
+  <!-- Fruit platter tropical -->
+  <ellipse cx="200" cy="310" rx="150" ry="50" fill="#2D4739" opacity="0.15"/>
+  
+  <!-- Pineapple slice -->
+  <circle cx="150" cy="250" r="40" fill="#C9A962"/>
+  <circle cx="150" cy="250" r="30" fill="#F9F6F0"/>
+  <circle cx="150" cy="250" r="20" fill="#D4A574"/>
+  
+  <!-- Mango -->
+  <ellipse cx="220" cy="240" rx="35" ry="45" fill="#D4A574"/>
+  
+  <!-- Banana -->
+  <ellipse cx="280" cy="260" rx="20" ry="50" fill="#C9A962" transform="rotate(30 280 260)"/>
+  
+  <!-- Papaya -->
+  <ellipse cx="200" cy="280" rx="50" ry="30" fill="#D4A574" opacity="0.8"/>
+  
+  <!-- Coconut -->
+  <circle cx="120" cy="290" r="25" fill="#EDE8DF"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#F9F6F0"/>
+  <!-- Mini sandwiches -->
+  <rect x="100" y="200" width="60" height="50" rx="5" fill="#fff" stroke="#C9A962" stroke-width="2"/>
+  <rect x="105" y="210" width="50" height="8" fill="#D4A574"/>
+  <rect x="105" y="225" width="50" height="8" fill="#4A7C59"/>
+  
+  <rect x="170" y="190" width="60" height="50" rx="5" fill="#fff" stroke="#C9A962" stroke-width="2"/>
+  <rect x="175" y="200" width="50" height="8" fill="#D4A574"/>
+  <rect x="175" y="215" width="50" height="8" fill="#C9A962"/>
+  
+  <rect x="240" y="200" width="60" height="50" rx="5" fill="#fff" stroke="#C9A962" stroke-width="2"/>
+  <rect x="245" y="210" width="50" height="8" fill="#4A7C59"/>
+  <rect x="245" y="225" width="50" height="8" fill="#D4A574"/>
+  
+  <!-- Platter -->
+  <ellipse cx="200" cy="300" rx="140" ry="40" fill="#2D4739" opacity="0.2"/>
+</svg>

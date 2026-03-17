@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#F9F6F0"/>
+  <!-- Samosas -->
+  <ellipse cx="200" cy="300" rx="140" ry="50" fill="#2D4739" opacity="0.2"/>
+  <path d="M120 200 L160 280 L80 280 Z" fill="#C9A962" stroke="#B8984A" stroke-width="2"/>
+  <path d="M180 190 L220 270 L140 270 Z" fill="#D4A574" stroke="#C9A962" stroke-width="2"/>
+  <path d="M240 200 L280 280 L200 280 Z" fill="#C9A962" stroke="#B8984A" stroke-width="2"/>
+  <!-- Chutney -->
+  <ellipse cx="200" cy="330" rx="40" ry="15" fill="#D4A574"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="gal7Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C9A962"/>
+      <stop offset="100%" style="stop-color:#D4A574"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="#1a2e22"/>
+  <!-- Bouchons -->
+  <ellipse cx="200" cy="300" rx="130" ry="50" fill="#2D4739"/>
+  <ellipse cx="200" cy="290" rx="110" ry="40" fill="url(#gal7Bg)"/>
+  <!-- Individual bouchons -->
+  <circle cx="150" cy="280" r="20" fill="#D4A574"/>
+  <circle cx="190" cy="270" r="20" fill="#C9A962"/>
+  <circle cx="230" cy="270" r="20" fill="#D4A574"/>
+  <circle cx="270" cy="280" r="20" fill="#C9A962"/>
+  <!-- Leaf garnish -->
+  <circle cx="130" cy="330" r="8" fill="#4A7C59"/>
+  <circle cx="270" cy="330" r="8" fill="#4A7C59"/>
+</svg>

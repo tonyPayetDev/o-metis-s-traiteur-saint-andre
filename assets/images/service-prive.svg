@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="priveBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F9F6F0"/>
+      <stop offset="100%" style="stop-color:#EDE8DF"/>
+    </linearGradient>
+    <linearGradient id="priveGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C9A962"/>
+      <stop offset="100%" style="stop-color:#D4A574"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="url(#priveBg)"/>
+  
+  <!-- Outdoor setting hint -->
+  <circle cx="500" cy="80" r="40" fill="#D4A574" opacity="0.2"/>
+  
+  <!-- Table with tablecloth -->
+  <ellipse cx="300" cy="300" rx="220" ry="70" fill="#fff" filter="drop-shadow(0 4px 8px rgba(0,0,0,0.1))"/>
+  <ellipse cx="300" cy="295" rx="200" ry="60" fill="#F9F6F0"/>
+  
+  <!-- BBQ/Grill station -->
+  <rect x="100" y="180" width="120" height="80" rx="10" fill="#2D4739"/>
+  <ellipse cx="160" cy="180" rx="50" ry="15" fill="#3D5A49"/>
+  <rect x="130" y="140" width="60" height="40" fill="#C9A962" rx="5"/>
+  
+  <!-- Smoke lines -->
+  <path d="M140 130 Q150 110 140 90" stroke="#C9A962" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M160 125 Q170 105 160 85" stroke="#D4A574" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M180 130 Q190 110 180 90" stroke="#C9A962" stroke-width="3" fill="none" opacity="0.5"/>
+  
+  <!-- Food platters -->
+  <ellipse cx="320" cy="260" rx="70" ry="25" fill="#2D4739"/>
+  <ellipse cx="320" cy="255" rx="60" ry="20" fill="url(#priveGold)"/>
+  
+  <ellipse cx="450" cy="270" rx="60" ry="20" fill="#2D4739"/>
+  <ellipse cx="450" cy="265" rx="50" ry="15" fill="#D4A574"/>
+  
+  <!-- Drinks cooler -->
+  <rect x="480" y="200" width="80" height="60" rx="10" fill="#C9A962" opacity="0.3"/>
+  <rect x="490" y="190" width="60" height="20" rx="5" fill="#fff"/>
+  <circle cx="505" cy="230" r="8" fill="#fff"/>
+  <circle cx="535" cy="230" r="8" fill="#fff"/>
+  
+  <!-- Decorative bunting flags -->
+  <path d="M50 50 L300 120 L550 50" stroke="#C9A962" stroke-width="2" fill="none"/>
+  <polygon points="100,65 120,72 100,79" fill="#C9A962"/>
+  <polygon points="150,78 170,85 150,92" fill="#D4A574"/>
+  <polygon points="200,89 220,96 200,103" fill="#C9A962"/>
+  <polygon points="250,98 270,105 250,112" fill="#D4A574"/>
+  <polygon points="300,105 320,112 300,119" fill="#C9A962"/>
+  <polygon points="350,103 370,110 350,117" fill="#D4A574"/>
+  <polygon points="400,96 420,103 400,110" fill="#C9A962"/>
+  <polygon points="450,85 470,92 450,99" fill="#D4A574"/>
+  <polygon points="500,72 520,79 500,86" fill="#C9A962"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" width="600" height="500">
+  <defs>
+    <linearGradient id="ab1Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D4739"/>
+      <stop offset="100%" style="stop-color:#1a2e22"/>
+    </linearGradient>
+    <linearGradient id="ab1Gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C9A962"/>
+      <stop offset="100%" style="stop-color:#D4A574"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="500" fill="url(#ab1Bg)"/>
+  
+  <!-- Kitchen/Chef scene -->
+  <!-- Counter -->
+  <rect x="50" y="350" width="500" height="120" fill="#3D5A49"/>
+  <rect x="40" y="340" width="520" height="20" fill="url(#ab1Gold)"/>
+  
+  <!-- Chef figure -->
+  <ellipse cx="300" cy="280" rx="60" ry="70" fill="#F9F6F0" opacity="0.9"/>
+  <rect x="260" y="220" width="80" height="60" rx="30" fill="#F9F6F0"/>
+  <rect x="240" y="280" width="120" height="100" fill="#fff"/>
+  <rect x="250" y="270" width="100" height="20" fill="#2D4739"/>
+  <rect x="270" y="180" width="60" height="50" rx="10" fill="#fff"/>
+  <rect x="265" y="170" width="70" height="20" rx="5" fill="#fff"/>
+  
+  <!-- Chef hat detail -->
+  <rect x="285" y="155" width="30" height="20" fill="#C9A962"/>
+  
+  <!-- Cooking utensils -->
+  <rect x="150" y="250" width="8" height="100" fill="#C9A962" rx="4"/>
+  <circle cx="154" cy="240" r="15" fill="#D4A574"/>
+  
+  <rect x="450" y="260" width="8" height="90" fill="#C9A962" rx="4"/>
+  <ellipse cx="454" cy="255" rx="12" ry="8" fill="#D4A574"/>
+  
+  <!-- Plate with food -->
+  <ellipse cx="300" cy="380" rx="80" ry="25" fill="#fff"/>
+  <ellipse cx="300" cy="375" rx="60" ry="18" fill="url(#ab1Gold)"/>
+  <circle cx="280" cy="375" r="10" fill="#2D4739"/>
+  <circle cx="300" cy="370" r="10" fill="#3D5A49"/>
+  <circle cx="320" cy="375" r="10" fill="#2D4739"/>
+  
+  <!-- Steam -->
+  <path d="M280 340 Q290 320 280 300" stroke="#C9A962" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M300 330 Q310 310 300 290" stroke="#D4A574" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M320 340 Q330 320 320 300" stroke="#C9A962" stroke-width="3" fill="none" opacity="0.5"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="60" fill="#C9A962" opacity="0.05"/>
+  <circle cx="500" cy="150" r="40" fill="#D4A574" opacity="0.08"/>
+</svg>

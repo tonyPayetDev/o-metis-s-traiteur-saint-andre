@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#F9F6F0"/>
+  <!-- Dessert - Gâteau patate style -->
+  <ellipse cx="200" cy="320" rx="150" ry="40" fill="#2D4739" opacity="0.1"/>
+  <ellipse cx="140" cy="280" rx="40" ry="25" fill="#C9A962"/>
+  <ellipse cx="200" cy="270" rx="40" ry="25" fill="#D4A574"/>
+  <ellipse cx="260" cy="280" rx="40" ry="25" fill="#C9A962"/>
+  <!-- Sugar coating effect -->
+  <circle cx="130" cy="270" r="3" fill="#fff" opacity="0.6"/>
+  <circle cx="150" cy="275" r="2" fill="#fff" opacity="0.6"/>
+  <circle cx="190" cy="260" r="3" fill="#fff" opacity="0.6"/>
+  <circle cx="210" cy="265" r="2" fill="#fff" opacity="0.6"/>
+  <circle cx="250" cy="270" r="3" fill="#fff" opacity="0.6"/>
+  <circle cx="270" cy="275" r="2" fill="#fff" opacity="0.6"/>
+</svg>

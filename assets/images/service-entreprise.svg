@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="corpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D4739"/>
+      <stop offset="100%" style="stop-color:#1a2e22"/>
+    </linearGradient>
+    <linearGradient id="corpGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C9A962"/>
+      <stop offset="100%" style="stop-color:#D4A574"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="url(#corpBg)"/>
+  
+  <!-- Conference table -->
+  <rect x="50" y="200" width="500" height="150" fill="#3D5A49" rx="10"/>
+  <rect x="40" y="190" width="520" height="30" fill="url(#corpGold)" rx="5"/>
+  
+  <!-- Buffet setup -->
+  <rect x="80" y="140" width="120" height="50" fill="#F9F6F0" rx="5"/>
+  <rect x="90" y="130" width="100" height="20" fill="#D4A574" rx="3"/>
+  <circle cx="110" cy="165" r="10" fill="#C9A962"/>
+  <circle cx="140" cy="165" r="10" fill="#D4A574"/>
+  <circle cx="170" cy="165" r="10" fill="#C9A962"/>
+  
+  <rect x="240" y="140" width="120" height="50" fill="#F9F6F0" rx="5"/>
+  <rect x="250" y="130" width="100" height="20" fill="#D4A574" rx="3"/>
+  <circle cx="270" cy="165" r="10" fill="#C9A962"/>
+  <circle cx="300" cy="165" r="10" fill="#D4A574"/>
+  <circle cx="330" cy="165" r="10" fill="#C9A962"/>
+  
+  <rect x="400" y="140" width="120" height="50" fill="#F9F6F0" rx="5"/>
+  <rect x="410" y="130" width="100" height="20" fill="#D4A574" rx="3"/>
+  <circle cx="430" cy="165" r="10" fill="#C9A962"/>
+  <circle cx="460" cy="165" r="10" fill="#D4A574"/>
+  <circle cx="490" cy="165" r="10" fill="#C9A962"/>
+  
+  <!-- Coffee cups -->
+  <ellipse cx="100" cy="260" rx="15" ry="8" fill="#F9F6F0"/>
+  <ellipse cx="100" cy="255" rx="12" ry="6" fill="#D4A574"/>
+  
+  <ellipse cx="500" cy="260" rx="15" ry="8" fill="#F9F6F0"/>
+  <ellipse cx="500" cy="255" rx="12" ry="6" fill="#D4A574"/>
+  
+  <!-- Water bottles -->
+  <rect x="460" y="240" width="12" height="40" rx="3" fill="#F9F6F0" opacity="0.8"/>
+  <rect x="462" y="245" width="8" height="30" fill="#C9A962" opacity="0.3"/>
+  
+  <!-- Logo placeholder -->
+  <circle cx="300" cy="80" r="50" fill="url(#corpGold)" opacity="0.2"/>
+  <text x="300" y="90" text-anchor="middle" font-family="serif" font-size="28" fill="#C9A962" font-weight="bold">O MÉTIS S</text>
+</svg>

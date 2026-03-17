@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#2D4739"/>
+  <!-- Carry poulet -->
+  <ellipse cx="200" cy="290" rx="120" ry="50" fill="#3D5A49"/>
+  <ellipse cx="200" cy="280" rx="100" ry="40" fill="#D4A574"/>
+  <!-- Chicken pieces -->
+  <ellipse cx="160" cy="270" rx="30" ry="25" fill="#C9A962"/>
+  <ellipse cx="200" cy="260" rx="30" ry="25" fill="#D4A574"/>
+  <ellipse cx="240" cy="270" rx="30" ry="25" fill="#C9A962"/>
+  <!-- Sauce -->
+  <ellipse cx="200" cy="295" rx="80" ry="20" fill="#B8984A" opacity="0.5"/>
+  <!-- Coriander -->
+  <circle cx="150" cy="320" r="6" fill="#4A7C59"/>
+  <circle cx="250" cy="320" r="6" fill="#4A7C59"/>
+</svg>
